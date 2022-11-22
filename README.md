@@ -1,10 +1,12 @@
 # SpringBoot- Caffeine Cache
 
+- Java 11
+- MySQL
+
 There are two ways to configure :
 - application.properties file 
 - code (using this way)
-
-
+- Create schema: CREATE SCHEMA employee_management ;
 
 ### Payload :
  
